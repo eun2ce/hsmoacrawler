@@ -1,0 +1,15 @@
+# pycharm
+.idea/
+
+# python
+__pycache__/
+
+# build
+build/
+dist/
+*.egg-info/
+
+# data
+data/images/*.jpg
+data/*.json
+backup/*.json
